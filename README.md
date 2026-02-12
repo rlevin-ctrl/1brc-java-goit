@@ -68,7 +68,7 @@
 # 1. Відкрити консоль Git Bash (або інший Bash)
 
 # 2. Перейти в папку з проєктом
-cd "/c/Users/Robert/RiderProjects/1BRC_GoIt"   # у маєму випадку, заміни на свій шлях
+cd "/c/Users/Robert/RiderProjects/1BRC_GoIt"   # у моєму випадку, заміни на свій шлях
 
 # 3. Дати права на виконання скрипта (робиться один раз)
 chmod +x evaluate.sh
